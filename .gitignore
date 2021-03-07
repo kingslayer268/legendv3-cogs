@@ -1,0 +1,9 @@
+make.bat
+.vscode
+.stignore
+*.xml
+*.iml
+*.pyc
+*.pyc
+/battlelog.bak/battlelog.py
+/securitycheck.py
